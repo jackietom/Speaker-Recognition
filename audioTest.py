@@ -1,4 +1,4 @@
-from fftTest import audioFft
+from fft import audioFft
 from lowpassFilter import lowpassDeal
 from scipy.io.wavfile import read
 import numpy as np
